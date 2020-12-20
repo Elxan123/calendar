@@ -2,6 +2,7 @@
 
 <!-- ============================= CSS LINKS FOR THIS PAGE ==============================-->
 <link rel="stylesheet" type="text/css" href="<?php echo base_url("public/admin/")?>src/plugins/fullcalendar/fullcalendar.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url("public/admin/")?>vendors/styles/c_css.css">
 <!-- ============================= CSS LINKS FOR THIS PAGE ==============================-->
 
 
