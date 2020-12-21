@@ -19,12 +19,20 @@
             <div class="pd-20 card-box mb-30">
                 <div class="calendar-wrap">
 
+                    <div style="position: relative">
+                        <div class="c_loader_parent" style="display: none">
+                            <div class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                        </div>
 
 
-                    <button class="btn btn-success" id="c_add_btn">Add event</button>
-                    <br><br>
+                        <button class="btn btn-success" id="c_add_btn">Add event</button>
+                        <br><br>
 
-                    <div id='calendar'></div>
+                        <div id='calendar'></div>
+
+                    </div>
+
+
                 </div>
 
 
@@ -78,4 +86,7 @@
 
     </div>
 </div>
+
+
+
 
